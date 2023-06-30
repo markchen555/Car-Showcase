@@ -1,4 +1,5 @@
 "use client";
+// use "use client" because we are going to use hooks
 
 import React, { useState } from "react";
 import { SearchManufacturer } from "./";
