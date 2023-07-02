@@ -25,7 +25,7 @@ export default async function Home() {
           </div>
           {!isDataEmpty ? (
             <section>
-              <div className="home__car-wrapper">
+              <div className="home__cars-wrapper">
                 {allCars?.map((car) => (
                   <CarCard car={car} />
                 ))}
