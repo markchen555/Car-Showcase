@@ -1,6 +1,9 @@
 import { Footer, Navbar } from "@/components";
 import "./globals.css";
 
+// https://github.com/adrianhajdin/project_next13_car_showcase/tree/main
+// https://www.youtube.com/watch?v=pUNSHPyVryU&t=851s
+
 export const metadata = {
   title: "Car Hub",
   description: "Discover the best car in the world.",
